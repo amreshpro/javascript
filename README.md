@@ -1,0 +1,42 @@
+# Javascript
+
+- Closure 
+- Parsing
+- Execution Context
+- Call Stack 
+- Promises
+- Async
+- Objects
+- Refrence
+- JSON
+- Proxy 
+- this
+- Scope
+- Memory 
+- DOM 
+- Garbage Collector
+- Arrays
+- Array-Like
+- Map
+- Set
+- WeekSet
+- Weekmap
+- Binding
+- Interpret
+- Binding
+- Scope Chain
+- Functions
+- OOPs
+- Throttling
+- Debouncing
+- Conditions
+- Loops
+- Web API's Destructuring
+- Events
+- Exception
+- Operators
+- Generators
+- Callback 
+- Hoisting 
+- Data Types 
+- Modules
